@@ -60,7 +60,7 @@
 Hello! This repository is used to store Python scripts and functions that I (more or less) frequently use in my projects.
 This repository could prove to be useful to you, if you happen to be working with similar laboratory related hardware and software as I do.
 
-All the best
+All the best\
 -Daniel
 
 
