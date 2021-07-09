@@ -28,23 +28,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/dyyyni/PythonScriptsFunctions">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">Python Scripts and Functions</h3>
 
   <p align="center">
     This repository contains useful scripts and functions written in Python.
-    <br />
-    <a href="https://github.com/dyyyni/PythonScriptsFunctions"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/dyyyni/PythonScriptsFunctions">View Demo</a>
-    ·
-    <a href="https://github.com/dyyyni/PythonScriptsFunctions/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/dyyyni/PythonScriptsFunctions/issues">Request Feature</a>
   </p>
 </p>
 
