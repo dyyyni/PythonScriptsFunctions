@@ -87,7 +87,7 @@ Project Link: [https://github.com/dyyyni/PythonScriptsFunctions](https://github.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[license-shield]: https://img.shields.io/github/license/dyyyni/repo.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/dyyyni/PythonScriptsFunctions.svg?style=for-the-badge
 [license-url]: https://github.com/dyyyni/PythonScriptsFunctions/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/luomadaniel
