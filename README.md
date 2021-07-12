@@ -1,6 +1,6 @@
 
-*** To avoid retyping too much info. Do a search and replace for the following:
-*** github_username, repo_name, twitter_handle, email, project_title, project_description
+# *** To avoid retyping too much info. Do a search and replace for the following:
+# *** github_username, repo_name, twitter_handle, email, project_title, project_description
 
 
 
